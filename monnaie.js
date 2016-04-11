@@ -92,30 +92,3 @@ function renvoi_monnaie_map(argent_depose ){
 }
 
 console.log(renvoi_monnaie_map(5));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-function getFullName(item,index) {
-    var fullname = [item.piece,item.nb].join(" ");
-    return fullname;
-}
-
-function myFunction() {
-    var maptest= persons.map(getFullName);
-    return maptest;
-
-}
-    */
